@@ -2,7 +2,7 @@
 
 void main (void)
 {
-    float miles = 1.61;
+    float miles = 1;
     float km;
 
     km = miles * 1.61;
